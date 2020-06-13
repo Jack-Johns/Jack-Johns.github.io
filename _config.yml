@@ -12,7 +12,7 @@ primarylinks:
  - title: LinkedIn
    url: https://www.linkedin.com/in/jack-johns-183100177/
  - title: Email
-   url: jack.johns@bt.com
+   url: mailto:jack.johns@bt.com
 
 #Skills to highlight
 skills:
@@ -38,7 +38,7 @@ roles:
    start: 2018
    end: Ongoing
    employer: BT Plc
-   description: Working within a range of different research teams, inlcuding Security Futures, Operational Transformations, AI and Data Science and Internet of Things whilst completing my degree. <strong>Referee</strong> Andrew Corston 
+   description: Working within a range of different research teams, inlcuding Security Futures, Operational Transformations, AI and Data Science and Internet of Things whilst completing my degree. <strong>Referee</strong> <a href="mailto:andrew.corston@bt.com">Andrew Corston</a> 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
