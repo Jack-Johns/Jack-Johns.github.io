@@ -46,19 +46,7 @@ education:
    subject: Digital and Technology Solutions - Data Analysis
    school: University of Exeter
 
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
+#General intro at the top of the page
 intro: |
   I am a keen technologist and software developer that loves thinking of innovative solutions to both company-specific and industry-wide problems. I achieve results through using my technical knowledge, logical thinking and problem solving skills.<br><br>
   By working on various research projects, I have become proficient with computing languages such as Python (in the field of machine learning and robotics), Java (for both web development and Android applications) and C# (to develop applications in VR/AR). I also have experience in database creation, querying and management mostly through SQL.<br><br>
