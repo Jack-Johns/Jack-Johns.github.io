@@ -46,6 +46,19 @@ education:
    subject: Digital and Technology Solutions - Data Analysis
    school: University of Exeter
 
+#List of interesting Github repo/projects to include - optional
+github:
+ - robhinds/robhinds.github.io
+ - robhinds/ScaLambda
+ - robhinds/opinionated-akka-http
+ - robhinds/food2vec
+ - robhinds/microservices
+ - robhinds/spring-social-geeklist
+ - robhinds/spring-social-stackoverflow
+ - robhinds/genotype
+ - robhinds/footweets
+ - robhinds/ElasticSearchGradle
+
 intro: |
   I am a keen technologist and software developer that loves thinking of innovative solutions to both company-specific and industry-wide problems. I achieve results through using my technical knowledge, logical thinking and problem solving skills.<br><br>
   By working on various research projects, I have become proficient with computing languages such as Python (in the field of machine learning and robotics), Java (for both web development and Android applications) and C# (to develop applications in VR/AR). I also have experience in database creation, querying and management mostly through SQL.<br><br>
@@ -54,8 +67,8 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Cloud Security</strong>: I partook in a 6 month project for the Security Futures team, in which I created a PoC (Proof of Concept) that  <br/><br/>
-   <strong>AR in Field Force</strong>: <br/><br/>
-   <strong>BERT for Chatbots</strong>: <br/><br/>
-   <strong>IoT for Assisted Living</strong>: <br/><br/>
-   <strong>Emergency Response Team Companion Application</strong>: <br/><br/>
+   <strong>Cloud Security</strong>: I partook in a 6 month project for the Security Futures team, in which my work was centred around building a PoC (Proof of Concept) that showed how to protect both PCs and internet of things (IoT) devices simultaneously from malicious domains and known security vulnerabilities using the existing architecture that BT has.<br/><br/>
+   <strong>AR in Field Force</strong>: The 7 month project I completed in the Operational Transformations team consisted of a PoC that shows how live feeds of data can be displayed to an augmented reality wearable like the Microsoft HoloLens and how helpful that would be to the user. It demonstrated how our field force engineers could benefit from the use of wearables and how the data could be delivered to them through this process.<br/><br/>
+   <strong>BERT for Chatbots</strong>: This 6 month project investigated a new Natural Language Processing (NLP) model called BERT (Bidirectional Encoder Representations from Transformers). I created and trained my own version of the model based on the standards and created a demo that showed the capabilities of it in a Question-Answering (QA) domain.<br/><br/>
+   <strong>IoT for Assisted Living</strong>: I worked with <a href="http://consequentialrobotics.com/miroe">MiRo</a>, a robotic dog that hosts various IoT sensors and can be interacted with in different ways. Using MiRo, I created a demo based around assisted living, in which the robot uses it's microphones to detect specific keywords and retrieve data that would be useful, such as temperature or air quality data. <br/><br/>
+   <strong>Emergency Response Team Companion Application</strong>: I led a team of fellow researchers as project manager on a project to improve BT's Emergency Response Team's current logging systems. We developed a web application that allows operatives to submit and view logs, all whilst in the field.​ This in turn will make the ERT more efficient at responding to incidents and in some cases, help save lives.​<br/><br/>
