@@ -9,6 +9,8 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/Jack-Johns
+ - title: Kaggle
+   url: https://www.kaggle.com/jckjhns
  - title: LinkedIn
    url: https://www.linkedin.com/in/jack-johns-183100177/
  - title: Email
